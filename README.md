@@ -1,5 +1,6 @@
 # Dijkstra-s-Algorithm
-# Kieron Pang 7/08/2025
+By Kieron Pang 7/08/2025
+
 Dijkstra's Algorithm
 
 Simple Dijkstra's Algorithm calculation that allows you to build your own node system.
