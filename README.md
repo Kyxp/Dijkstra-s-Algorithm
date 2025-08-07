@@ -5,6 +5,8 @@ Dijkstra's Algorithm
 
 Simple Dijkstra's Algorithm calculation that allows you to build your own node system.
 
+-> Go to exec folder->distros->main.exe to find executable
+
 * 1: Add Node
 
   Adds a node, no duplicates allowed.
