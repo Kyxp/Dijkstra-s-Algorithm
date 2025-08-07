@@ -4,25 +4,46 @@ Dijkstra's Algorithm
 
 Simple Dijkstra's Algorithm calculation that allows you to build your own node system.
 
-1: Add Node
+* 1: Add Node
+
   Adds a node, no duplicates allowed.
-2: Add Edge
+  
+* 2: Add Edge
+  
   Adds an edge. An edge called "AB" is the same as "BA". Undirected.
-3: Remove Node
+  
+* 3: Remove Node
+  
   Removes a node and all its edges completely.
-4: Remove Edge
+  
+* 4: Remove Edge
+  
   Removes an edge connection without removing the node.
-5: Display Nodes
+  
+* 5: Display Nodes
+  
   Shows available nodes.
-6: Display Edges
+
+* 6: Display Edges
+  
   Displays nodes, and their edge connections (without weight)
-7: View Matrixes
+  
+* 7: View Matrixes
+  
   Node Matrixes for nodes, edges, and weights.
-8: Import File (binary)
+  
+* 8: Import File (binary)
+  
   Imports a file that you first must save.
-9: Export File (Save)
+  
+* 9: Export File (Save)
+  
   Exports a binary file you can load. Create a "save" folder if it doesn't already exist.
-10: Calculate Dijkstra's Algorithm
+  
+* 10: Calculate Dijkstra's Algorithm
+  
   Calculates the shortest distances between two nodes if they do exist.
-0: Exit
+  
+* 0: Exit
+  
   Ends the program.
