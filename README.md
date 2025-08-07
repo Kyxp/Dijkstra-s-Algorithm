@@ -1,4 +1,4 @@
-# Dijkstra's-Algorithm
+# Dijkstra's Algorithm
 By Kieron Pang 7/08/2025
 
 Dijkstra's Algorithm
